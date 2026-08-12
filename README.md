@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Priyangshu Haloi
 
 <a href="https://github.com/Priyangshu-haloi">Github . </a>
-<a href="www.linkedin.com/in/priyangshu-haloi-277149292">LinkedIn</a>
+<a href="https://www.linkedin.com/in/priyangshu-haloi-277149292/">LinkedIn</a>
 
 
 ---
