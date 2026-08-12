@@ -139,6 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author
 
 Priyangshu Haloi
+
 <a href="https://github.com/Priyangshu-haloi">Github . </a>
 <a href="www.linkedin.com/in/priyangshu-haloi-277149292">LinkedIn</a>
 
